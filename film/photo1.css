@@ -1,0 +1,50 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	width: 1000px;
+	height: 2000px;
+	background-color: orange;
+}
+.pic{
+	width: 1000px;
+	height: 500px;
+	background-color: red;
+}
+.pic1 img{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	float: left;
+}
+.pic1 h2{
+	position: absolute;
+	top: 120px;
+	left: 10px;
+}
+.pic1 h3{
+    position: absolute;
+	top: 150px;
+	left: 10px;	
+}
+.pic1 h4{
+	position: sticky;
+	top: 0px;
+}
+.pic2{
+	width: 1000px;
+	height: 300px;
+	background-color: blue;
+	margin-top: 50px;
+}
+.pic3 img{
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.pic3 h2{
+	position: fixed;
+	top: 500px;
+	right: 400px;
+}

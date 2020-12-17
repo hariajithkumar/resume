@@ -1,0 +1,108 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.pro{
+	width: 400px;
+	height: 900px;
+	background-color: white;
+	float: left;
+	border: solid 1px black;
+	position: relative;
+
+}
+.pro1{
+	padding: 200px 0px 0px 30px;
+	margin-bottom: 50px: 
+}
+.pro1 h2{
+	padding-bottom: 5px;
+}
+.pro1 img{
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	top: 20px;
+	left: 50px;
+	border-radius: 100px;
+}
+.pro2{
+	padding: 50px 0px 0px 30px;
+	margin-bottom: 50px: 
+}
+.pro2 h1{
+	font-size: 25px;
+	padding-bottom: 5px;
+}
+.pro2 li{
+      font-size: 20px;
+}
+.pro3{
+	padding: 50px 0px 0px 30px;
+	margin-bottom: 50px: 
+}
+.pro3 h1{
+     font-size: 25px;
+     padding-bottom: 5px;
+}
+.pro4{
+	padding: 50px 0px 0px 30px;
+	margin-bottom: 50px:
+}
+.pro4 li{
+	padding-left: 0px;
+} 
+.file{
+	width: 400px;
+	height: 900px;
+	background-color: white;
+	float: left;
+	border: solid 1px black;
+	position: relative;
+}
+.file1{
+	position: absolute;
+	top: 200px;
+	right: 180px;
+}
+.file2{
+	background-color: orange;
+	/*padding-left: 500px*/
+	width:220px;
+	height: 30px;
+	position: absolute;
+	top: 225px;
+	right: 160px;
+}
+.file3 h2{
+	font-size: 25px;
+	position: absolute;
+	top: -30px;
+	left: 0px;
+	padding:0px 0px 15px 0px;
+}
+.file3{
+	position: absolute;
+	top: 300px;
+	right: 70px;
+}
+.file4{
+	position: absolute;
+	top: 400px;
+	right: 50px;
+}
+.file5{
+	position: absolute;
+	top: 580px;
+	right: 180px;
+}
+.file6{
+	position: absolute;
+	top: 700px;
+	right: 350px;
+}
+.file7{
+	position: absolute;
+	top: 700px;
+	right: 10px;
+}
